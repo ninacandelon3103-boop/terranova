@@ -6,7 +6,7 @@ import { Depliant } from './pages/Depliant';
 import { Boutique } from './pages/Boutique';
 
 function AppContent() {
-  const location = useLocation();
+  const location = [];
 
   return (
     <div className="min-h-screen bg-[#fffd6f]">
