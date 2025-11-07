@@ -23,12 +23,12 @@ export function Navigation() {
             </Link>
             <Link to="/reservation">
               <button className={`pb-2 border-b-2 transition ${isActive('/reservation') ? 'border-[#f04A00]' : 'border-transparent hover:border-[#f04A00]'}`}>
-                Reservation
+                Réservation
               </button>
             </Link>
             <Link to="/depliant">
               <button className={`pb-2 border-b-2 transition ${isActive('/depliant') ? 'border-[#f04A00]' : 'border-transparent hover:border-[#f04A00]'}`}>
-                Depliant
+                Dépliant
               </button>
             </Link>
             <Link to="/boutique">
