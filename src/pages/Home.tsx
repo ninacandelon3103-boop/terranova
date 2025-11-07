@@ -8,7 +8,7 @@ export function Home() {
       {/* Hero Section */}
       <div className="bg-[#000080] text-[#fffd6f] py-20">
         <div className="container mx-auto px-4 text-center">
-          <h1 className="text-6xl font-bold mb-4">TERRA NOVA</h1>
+          <img src="https://ninacandelon3103-boop.github.io/terranova/images/Logo_TerraNova_VersionFinale.png" />
           <p className="text-2xl text-[#f04A00] mb-8">10 - 13 juillet 2026</p>
           <p className="text-lg mb-6">La Guillotiere, Lyon | 16h - 3h</p>
         </div>
